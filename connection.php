@@ -1,5 +1,5 @@
 <?php
-        $link = mysqli_connect("shareddb-f.hosting.stackcp.net", "ediary-32349fa4", "rQ35HJdKzpYP", "ediary-32349fa4");
+        $link = mysqli_connect("######", "#######", "#####", "######");
         
         if (mysqli_connect_error()){
             
